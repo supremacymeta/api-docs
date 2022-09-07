@@ -27,8 +27,8 @@ The response request and response types can change at any moment.
 
 # Environments
 
-- Production: https://api.supremacy.game/api
-- Proving Grounds: https://api.supremacygame.dev/api
+- Production: `https://api.supremacy.game/api`
+- Proving Grounds: `https://api.supremacygame.dev/api`
 
 # Authentication
 

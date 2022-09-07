@@ -136,7 +136,7 @@ contract SignatureVerifier {
 
 ```
 
-Use EIP712 to verify signatures:
+Use [EIP-1271](https://eips.ethereum.org/EIPS/eip-1271) to verify signatures:
 
 - Split signature from API into `r`, `s`, `v` components
 - Generate message hash using the arguments used to generate the hash (see below)

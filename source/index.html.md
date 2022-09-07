@@ -25,6 +25,11 @@ This document covers API documentation and examples for you to develop applicati
 
 The response request and response types can change at any moment.
 
+# Environments
+
+- Production: https://api.supremacy.game/api
+- Proving Grounds: https://api.supremacygame.dev/api
+
 # Authentication
 
 No authentication is required for the public API endpoints.

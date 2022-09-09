@@ -7,6 +7,7 @@ language_tabs: # must be one of https://git.io/vQNgJ
 search: true
 
 toc_footers:
+  - <a href="https://github.com/supremacymeta/">GitHub</a>
   - <a href="https://supremacy.game">Supremacy</a>
   - <a href="https://play.supremacy.game">Battle Arena</a>
   - <a href="https://supremacygame.dev">Proving Grounds</a>
